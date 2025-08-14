@@ -85,6 +85,15 @@ src/
 └── lib/                # Utility functions and configurations
 ```
 
+## Screenshots
+<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image.png" align = "right" height=380px>
+<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image2.png" align = "right" height=380px>
+<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image3.png" align = "right" height=380px>
+<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image4.png" align = "right" height=380px>
+<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image5.png" align = "right" height=380px>
+
+
+
 ## 🎨 Available Features & Components
 
 This scaffold includes a comprehensive set of modern web development tools:
