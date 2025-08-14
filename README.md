@@ -126,11 +126,11 @@ Built with ❤️ for the developer community. Supercharged by [Pronab Sen Gupta
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image.png" height="200">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image2.png" height="200">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image3.png" height="200">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image4.png" height="200">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image5.png" height="200">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image6.png" height="200">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image2.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image3.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image4.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image5.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image6.png" width="230">
 </p>
 
