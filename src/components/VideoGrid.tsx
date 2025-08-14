@@ -22,7 +22,8 @@ import {
   TrendingUp,
   Calendar,
   SortAsc,
-  SortDesc
+  SortDesc,
+  Star
 } from 'lucide-react'
 
 interface Video {

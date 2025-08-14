@@ -75,7 +75,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-6xl md:text-8xl font-bold mb-6 cosmic-gradient-text cosmic-text-glow">
-              Z.AI
+              DevCommunity
             </h1>
             <h2 className="text-3xl md:text-5xl font-light text-white mb-8 cosmic-text-glow">
               Cosmic Blog & Forum
@@ -199,10 +199,10 @@ export default function Home() {
               <div className="w-8 h-8 cosmic-gradient rounded-full flex items-center justify-center">
                 <span className="text-white font-bold text-sm">Z</span>
               </div>
-              <span className="text-xl font-bold cosmic-gradient-text">Z.AI</span>
+              <span className="text-xl font-bold cosmic-gradient-text">DevCommunityI</span>
             </div>
             <div className="text-gray-400 text-center md:text-right">
-              <p>&copy; 2024 Z.AI Cosmic Community. All rights reserved.</p>
+              <p>&copy; 2025 DevCommunity Cosmic Community. All rights reserved.</p>
               <p className="text-sm mt-1">Exploring the universe together.</p>
             </div>
           </div>

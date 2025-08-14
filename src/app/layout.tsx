@@ -16,20 +16,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.AI - Cosmic Blog & Forum",
-  description: "A futuristic blog and forum platform themed around Z.AI with cosmic nebula backgrounds and space-inspired design.",
-  keywords: ["Z.AI", "blog", "forum", "cosmic", "nebula", "space", "Three.js", "community"],
-  authors: [{ name: "Z.AI Team" }],
+  title: "DevCommunity - Cosmic Blog & Forum",
+  description: "A futuristic blog and forum platform themed around DevCommunity with cosmic nebula backgrounds and space-inspired design.",
+  keywords: ["DevCommunity", "blog", "forum", "cosmic", "nebula", "space", "Three.js", "community"],
+  authors: [{ name: "DevCommunity Team" }],
   openGraph: {
-    title: "Z.AI - Cosmic Blog & Forum",
+    title: "DevCommunity - Cosmic Blog & Forum",
     description: "Futuristic community platform with cosmic design",
-    url: "https://chat.z.ai",
-    siteName: "Z.AI",
+    url: "#",
+    siteName: "DevCommunity",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.AI - Cosmic Blog & Forum",
+    title: "DevCommunity - Cosmic Blog & Forum",
     description: "Futuristic community platform with cosmic design",
   },
 };
