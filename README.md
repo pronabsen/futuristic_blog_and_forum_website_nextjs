@@ -85,15 +85,6 @@ src/
 └── lib/                # Utility functions and configurations
 ```
 
-## Screenshots
-<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image.png" align = "right" height=380px>
-<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image2.png" align = "right" height=380px>
-<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image3.png" align = "right" height=380px>
-<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image4.png" align = "right" height=380px>
-<img src = "https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image5.png" align = "right" height=380px>
-
-
-
 ## 🎨 Available Features & Components
 
 This scaffold includes a comprehensive set of modern web development tools:
@@ -107,7 +98,7 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Data Display**: Badge, Avatar, Calendar
 
 ### 📊 Advanced Data Features
-- **Tables**: Powerful data tables with sorting, filtering, pagination (TanStack Table)
+- **Tables**: Powerful data tables with sorting, filtering, and pagination (TanStack Table)
 - **Charts**: Beautiful visualizations with Recharts
 - **Forms**: Type-safe forms with React Hook Form + Zod validation
 
@@ -131,3 +122,15 @@ This scaffold includes a comprehensive set of modern web development tools:
 ---
 
 Built with ❤️ for the developer community. Supercharged by [Pronab Sen Gupta](https://github.com/pronabsen) 🚀
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image.png" height="200">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image2.png" height="200">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image3.png" height="200">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image4.png" height="200">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image5.png" height="200">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image6.png" height="200">
+</p>
+
