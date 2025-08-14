@@ -2,6 +2,17 @@
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with AI-powered coding assistance.
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image2.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image3.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image4.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image5.png" width="230">
+  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image6.png" width="230">
+</p>
+
 ## ✨ Technology Stack
 
 This scaffold provides a robust foundation built with:
@@ -122,15 +133,4 @@ This scaffold includes a comprehensive set of modern web development tools:
 ---
 
 Built with ❤️ for the developer community. Supercharged by [Pronab Sen Gupta](https://github.com/pronabsen) 🚀
-
-## 📱 Screenshots
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image.png" width="230">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image2.png" width="230">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image3.png" width="230">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image4.png" width="230">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image5.png" width="230">
-  <img src="https://raw.githubusercontent.com/pronabsen/futuristic_blog_and_forum_website_nextjs/refs/heads/main/public/screenshot/image6.png" width="230">
-</p>
 
